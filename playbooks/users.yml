@@ -1,7 +1,0 @@
----
-
-- hosts: localhost
-  vars_files:
-    - vars/users.yml
-  roles: 
-    - user-setup
